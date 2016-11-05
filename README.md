@@ -1,5 +1,5 @@
 # Repository for my personal website
-![LINK](https://mariacamilaremolinagutierrez.github.io)
+![LINK](https://mariacamilaremolinagutierrez.github.io/)
 
 ## Theme Credits
 
