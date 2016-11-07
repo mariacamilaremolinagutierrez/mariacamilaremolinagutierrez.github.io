@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Maria Camila Remolina Gutiérrez"
-title: "MCRG"
+title: "MARIA CAMILA REMOLINA GUTIÉRREZ"
 description: "Personal website of Maria Camila Remolina Gutiérrez."
 keywords: "astronomy, programming, personal, remolina-gutierrez, maria, camila"
 favicon: "/img/rocket.ico"
@@ -176,8 +176,8 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
+  Blog: 'latest-post'
   Contact: 'contact'
 
 # Exclusion list from the generated _site

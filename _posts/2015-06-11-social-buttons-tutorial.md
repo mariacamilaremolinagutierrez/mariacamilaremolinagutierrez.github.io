@@ -17,9 +17,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/mariacamilaremolinagutierrez/mariacamilaremolinagutierrez.github.io"
   - title: "rss"
     url: "/feed.xml"
 </code></pre>
