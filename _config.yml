@@ -58,6 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The cosmos is within us."
   - text: "We are made of star-stuff."
   - text: "We are a way for the universe to know itself."
+  - text: "- Carl Sagan"
 
 me-img: "/img/me.jpg"
 
