@@ -137,7 +137,7 @@ email: "mariacamilaremolinagutierrez@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Maria Camila is in love with traveling, linving new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -151,22 +151,14 @@ social:
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/mariacamilaremolinagutierrez"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/maria-camila-remolina-guti%C3%A9rrez-421b67113"
 
 ############
 # 404 page #
 ############
 
 404-img: "/img/404.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: mariacamilaremolinagutierrez
-keybase-in-social: True
-keybase-in-footer: True
 
 ################################################################################
 
