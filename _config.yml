@@ -124,9 +124,9 @@ events:
   - image: "/img/timeline/leiden.jpg"
     date: "June 2015"
     description: "Internship at Leiden Observatory (The Netherlands)"
-  - image: "/img/timeline/leiden.jpg"
+  - image: "/img/timeline/jpl.jpg"
     date: "June 2016"
-    description: "Internship at NASA's Jet Propulsion Laboratory (USAs)"
+    description: "Internship at NASA's Jet Propulsion Laboratory (USA)"
 
 # First image of the Timeline
 
@@ -146,7 +146,7 @@ email: "mariacamilaremolinagutierrez@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Maria Camila is in love with traveling, linving new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
+author_blurb: "Maria Camila is in love with traveling, living new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
 author_blurb_image: "/img/author.png"
 
 ##################
