@@ -112,12 +112,21 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "December 2011 - Today"
-    description: "Started coding"
   - image: "/img/timeline/graduation.jpg"
     date: "December 2011"
     description: "Graduated from high school"
+  - image: "/img/timeline/coding.jpg"
+    date: "January 2012"
+    description: "Started coding"
+  - image: "/img/timeline/uniandes.jpg"
+    date: "August 2012"
+    description: "Started college"
+  - image: "/img/timeline/leiden.jpg"
+    date: "June 2015"
+    description: "Internship at Leiden Observatory (The Netherlands)"
+  - image: "/img/timeline/leiden.jpg"
+    date: "June 2016"
+    description: "Internship at NASA's Jet Propulsion Laboratory (USAs)"
 
 # First image of the Timeline
 
