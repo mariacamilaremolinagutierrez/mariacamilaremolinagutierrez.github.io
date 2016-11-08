@@ -12,7 +12,7 @@ url: "https://mariacamilaremolinagutierrez.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: 
+baseurl:
 
 # Google tracking id
 
@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The cosmos is within us."
+  - text: "&quot;The cosmos is within us."
   - text: "We are made of star-stuff."
-  - text: "We are a way for the universe to know itself."
+  - text: "We are a way for the universe to know itself.&quot;"
   - text: "- Carl Sagan"
 
 me-img: "/img/me.jpg"
