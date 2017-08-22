@@ -156,14 +156,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/mariacamilaremolinagutierrez"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/maria-camila-remolina-guti%C3%A9rrez-421b67113"
+    url: "https://www.linkedin.com/in/mariacamilaremolinagutierrez/"
 
 ############
 # 404 page #
