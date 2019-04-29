@@ -18,7 +18,7 @@ baseurl: / # for deployment
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-86315464-2"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -157,7 +157,7 @@ email: "mariacamilaremolinagutierrez@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Maria Camila is in love with learning, traveling, living new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
+author_blurb: "Maria Camila is in love with learning, traveling, living new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating! "
 author_blurb_image: "/img/author.jpg"
 
 ##################
