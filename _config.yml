@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://mariacamilaremolinagutierrez.github.io"
+url: "https://mariacamilarg.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,11 +12,11 @@ url: "https://mariacamilaremolinagutierrez.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl:
+baseurl: /mariacamilarg
 
 # Google tracking id
 
-google-tracking-id: "UA-86315464-1"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -33,14 +33,13 @@ author: "Maria Camila Remolina Gutiérrez"
 title: "MARIA CAMILA REMOLINA GUTIÉRREZ"
 description: "Personal website of Maria Camila Remolina Gutiérrez."
 keywords: "astronomy, programming, personal, remolina-gutierrez, maria, camila"
-favicon: "/img/rocket.ico"
+favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/rocket.ico"
-
+black-favicon: "/img/favicon.ico"
 background-img: "../img/wallpaper_blurry.jpg"
 
 ##############################
@@ -61,7 +60,18 @@ lines: # You can add HTML Tags in the Text
   - text: "Some infinities are bigger than other infinities. - John Green"
   - text: "We adore chaos because we love to produce order. - M. C. Escher"
 
-me-img: "/img/me.jpg"
+# To use local profile pic uncomment the following line
+# me-img: "/img/me.png"
+
+# To use github profile pic uncomment the following line and replace 'user_name'
+# with your github user name.
+me-img: "https://github.com/mariacamilarg.png?size=500"
+
+# To use gravatar profile pic uncomment the following line and replace 'email_hash'
+# with your gravatar profile email hash.
+# You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
+# just enter your email and it will generate the hash.
+# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
 
 ##############################
 # Color the browser elements #
@@ -105,7 +115,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+#disqus-shortname: "mariacamilarg"
 
 syntax-highlight: True
 
@@ -114,21 +124,18 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/graduation.jpg"
-    date: "December 2011"
-    description: "Graduated from high school"
   - image: "/img/timeline/coding.jpg"
-    date: "January 2012"
+    date: "June 2011"
     description: "Started coding"
+  - image: "/img/timeline/highschool.jpg"
+    date: "December 2011"
+    description: "Graduated from High School"
   - image: "/img/timeline/uniandes.jpg"
-    date: "August 2012"
-    description: "Started college"
-  - image: "/img/timeline/leiden.jpg"
-    date: "June 2015"
-    description: "Internship at Leiden Observatory (The Netherlands)"
-  - image: "/img/timeline/jpl.jpg"
-    date: "June 2016"
-    description: "Internship at NASA's Jet Propulsion Laboratory (USA)"
+    date: "Mar 2017 / Jul 2018"
+    description: "Graduated from Uniandes as a Physicist & Engineer"
+  - image: "/img/timeline/parissaclay.png"
+    date: "Aug 2018 - Today"
+    description: "Started master in Computer Science in Paris, France"
 
 # First image of the Timeline
 
@@ -148,8 +155,8 @@ email: "mariacamilaremolinagutierrez@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Maria Camila is in love with traveling, living new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
-author_blurb_image: "/img/author.png"
+author_blurb: "Maria Camila is in love with learning, traveling, living new experiences and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
@@ -160,12 +167,22 @@ social:
     url: "https://github.com/mariacamilarg"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/mariacamilarg/"
+  - title: "twitter"
+    url: "https://twitter.com/holamariacamila"
 
 ############
 # 404 page #
 ############
 
-404-img: "/img/404.png"
+err-404-img: "/img/404.png"
+
+##################
+# GPG on Keybase #
+##################
+
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
@@ -192,6 +209,8 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+# Plugins
+
+plugins:
   - jekyll-paginate
   - jemoji
