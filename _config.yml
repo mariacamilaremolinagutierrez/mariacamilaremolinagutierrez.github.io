@@ -193,7 +193,7 @@ err-404-img: "/img/404.png"
 pages_list:
   About: 'about'
   Timeline: 'timeline'
-  Blog: 'latest-post'
+  More: 'more'
   Contact: 'contact'
 
 # Exclusion list from the generated _site

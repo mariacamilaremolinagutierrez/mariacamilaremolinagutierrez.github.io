@@ -1,0 +1,18 @@
+
+<!-- Project List Start -->
+
+<h4 align="left">
+  <strong>{{ project.date | date_to_string }}</strong>
+  <small>.
+    <a class="category" href="{{site.baseurl}}/categories/{{ project.category | downcase }}.html">
+      {{ project.category }}
+    </a>
+  .</small>
+  <br class="visible-xs-block">
+  <a href="{{site.baseurl}}{{post.url}}">
+    <strong>{{ project.title }}</strong>
+  </a>
+  <br class="visible-xs-block">
+</h4>
+
+<!-- Project List End -->
