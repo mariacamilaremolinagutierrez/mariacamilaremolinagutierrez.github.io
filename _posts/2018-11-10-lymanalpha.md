@@ -3,18 +3,11 @@ layout: post
 section-type: post
 title: Lyman-alpha photons through rotating outflows
 category: academic
-tags: [ 'astrophysics' ]
+tags: [ 'astrophysics', 'galaxy', 'montecarlo', 'simulations', 'article' ]
 ---
 
-What? Physics Undergraduate Thesis
+This work began as my Physics undergraduate thesis at [Universidad de los Andes](http://uniandes.edu.co/) in Bogotá, Colombia. It was developed under the supervising of the [AstroAndes](http://astroandes.github.io/) professor [Dr. Jaime Forero-Romero](http://wwwprof.uniandes.edu.co/~je.forero/). It evolved into a research article that we published on the journal Monthly Notices of the Royal Astronomical Society (Volume 482, Issue 4, February 2019, Pages 4553–4561) with DOI: [10.1093/mnras/sty3009](https://doi.org/10.1093/mnras/sty3009). 
 
-When? Fall 2015
+### Abstract:
 
-Where? Universidad de los Andes, Bogotá, Colombia
-
-Advisor? Dr. Jaime Forero-Romero
-
-
-Young galaxies in the Universe have a strong Ly- emission caused by the ionized Hydrogen atoms in their interstellar medium. When the spectrum of a galaxy has an intense peak around the Ly- natural frequency (2:46  1015 Hz) it is called a
-Lyman Alpha Emitter (LAE). Typical LAEs are very distant (z & 2). This makes that all the data astronomers can obtain from them is their spectra, and from there all the physical information of the galaxy must be derived. Trying to solve this task
-requires the creation of a simplified and solid model. In this monograph I propose to consider LAEs as a spherical distribution of Hydrogen atoms that undergoes a solid body rotation and a radial expansion. I simulate the effect of rotational velocity, outflow velocity and optical depth of the LAE in the outgoing spectra. The main conclusion is that this new model reproduces LAEs observed features in a clear way and with consistent physical parameters. However, proper observational fits are left for future work. This monograph accomplishes the objective of extracting as much information as possible from a LAE's Ly- line.
+Outflows and rotation are two ubiquitous kinematic features in the gas kinematics of galaxies. Here we introduce a semi-analytic model to quantify how rotating outflows impact the morphology of the Lyman-alpha emission line. The model is contrasted against Monte Carlo radiative transfer simulations of outflowing gas with additional solid body rotation. We explore a range of neutral Hydrogen optical depth of 10^5 <= tau_H <= 10^7, rotational velocity 0 <= v_rot / (km/s) <= 100 and outflow velocity 0 <= v_out / (ks/s) <= 50. We find three consequences of rotation. First, it introduces a dependency with viewing angle; second it broadens the line and third it increases the flux at the line's center. For all viewing angles, the semi-analytic model reproduces the radiative transfer results for the line width and flux change at the line's center within a 7% and 50% precision for an optical depth of tau_H=10^5, respectively, and within 2% and 1% for an optical depth of tau_H=10^7. Using this model we also show that the peaks of integrated spectra taken from opposite sides of an edge-on rotating gas distribution should have a separation of v_rot/2. The semi-analytic model presented here is a convenient tool to introduce rotational kinematics as a post-processing step of idealized Monte Carlo simulations; it provides a framework to interpret Lyman-alpha spectra in systems where rotation is expected or directly measured through kinematic maps.

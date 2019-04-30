@@ -18,6 +18,10 @@
 
           <h3 id="#{{ category }}">{{ category }}</h3>
 
+          <p>
+            In this list you can find all the different posts relevant to this category. You can get more details and insights by clicking on each of them:
+          </p>
+
           <div>
             {% for post in site.posts %}
               {% if post.category == category %}
