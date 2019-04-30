@@ -58,10 +58,17 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Sometimes it is the people no one can imagine anything of who do the things no one can imagine. - Alan Turing"
+  - text: "The most damaging phrase in the language is: 'It's always been done that way'. - Grace Hopper"
   - text: "It is the time you have wasted for your rose that makes your rose so important. - Antoine de Saint-Exupéry"
+  - text: "The more I study, the more insatiable do I feel my genius for it to be. - Ada Lovelace"
   - text: "We are a way for the universe to know itself. - Carl Sagan"
+  - text: "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - Marie Curie"
   - text: "Some infinities are bigger than other infinities. - John Green"
+  - text: "If we assume we've arrived, we stop searching. We stop developing. - Jocelyn Bell Burnell"
   - text: "We adore chaos because we love to produce order. - M. C. Escher"
+  - text: "Never interrupt someone doing something you said couldn’t be done. - Amelia Earhart"
+  - text: "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - Richard Feynmann"  
+  
 
 # To use local profile pic uncomment the following line
 # me-img: "/img/me.png"
