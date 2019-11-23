@@ -99,7 +99,7 @@ a {
         }
     }
     .navbar-brand {
-        font-size: 14px;
+        font-size: 12px;
         font-weight: 700;
         &:focus {
             outline: none;
@@ -195,6 +195,9 @@ a {
                 font-size: 26px;
             }
         }
+    }
+    .intro-text-container {
+        height: 100px;
     }
 }
 
