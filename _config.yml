@@ -13,8 +13,8 @@ url: "https://mariacamilarg.me"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: / # for deployment
-#baseurl: /mariacamilarg # for dev
+#baseurl: / # for deployment
+baseurl: /mariacamilarg # for dev
 
 
 # Google tracking id
@@ -35,7 +35,7 @@ lang: "en"
 author: "Maria Camila Remolina Gutiérrez"
 title: "MARIA CAMILA REMOLINA GUTIÉRREZ"
 description: "Personal website of Maria Camila Remolina Gutiérrez."
-keywords: "astronomy, programming, personal, remolina-gutierrez, maria, camila"
+keywords: "maria, camila, remolina, gutierrez, remolina-gutierrez"
 favicon: "/img/favicon.ico"
 
 ################
