@@ -13,8 +13,8 @@ url: "https://mariacamilarg.me"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-#baseurl: / # for deployment
-baseurl: /mariacamilarg # for dev
+baseurl: / # for deployment
+#baseurl: /mariacamilarg # for dev
 
 
 # Google tracking id
