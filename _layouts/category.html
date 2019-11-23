@@ -15,11 +15,12 @@
         <div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
 
           {% assign category = page.title %}
+          {% assign category_description = page.description %}
 
           <h3 id="#{{ category }}">{{ category }}</h3>
 
           <p>
-            In this list you can find all the different posts relevant to this category. You can get more details and insights by clicking on each of them:
+            {{ category_description }}
           </p>
 
           <div>
