@@ -165,7 +165,7 @@ email: "mariacamilaremolinagutierrez@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Maria Camila loves learning, traveling and meeting new friends. She doesn't like trying new food tho, but she compensates it in ice-cream eating!"
-author_blurb_image: "/img/author.jpg"
+author_blurb_image: "https://github.com/mariacamilarg.png?size=500"
 
 ##################
 # Social Buttons #
